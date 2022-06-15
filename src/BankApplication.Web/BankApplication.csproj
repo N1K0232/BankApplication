@@ -5,4 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BankApplication.Backend\BankManager.Shared\BankManager.Shared.csproj" />
+  </ItemGroup>
+
 </Project>
